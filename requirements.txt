@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+beautifulsoup4
+sumy
+transformers
+torch
+vadersentiment
+gtts
+googletrans==4.0.0-rc1
